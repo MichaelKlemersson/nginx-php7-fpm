@@ -8,6 +8,6 @@
 
 ### Clone from source
 
-`git clone https://github.com/MichaelKlemersson/nginx-php7-fpm.git
+`git clone https://github.com/MichaelKlemersson/nginx-php7-fpm.git`
 
-docker build -t nginx-php7-fpm:alpine .`
+`docker build -t nginx-php7-fpm:alpine .`
