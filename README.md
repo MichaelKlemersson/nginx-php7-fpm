@@ -2,11 +2,12 @@
 
 ## Usage
 
-1. Pulling from Docker
+### Pulling from Docker
 
-docker pull michaelkds/nginx-php7-fpm:alpine
+`docker pull michaelkds/nginx-php7-fpm:alpine`
 
-2. Clone from source
+### Clone from source
 
-git clone https://github.com/MichaelKlemersson/nginx-php7-fpm.git
-docker build -t nginx-php7-fpm:alpine .
+`git clone https://github.com/MichaelKlemersson/nginx-php7-fpm.git
+
+docker build -t nginx-php7-fpm:alpine .`
